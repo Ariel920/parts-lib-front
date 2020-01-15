@@ -29,8 +29,8 @@
       <file leaf-file-name="Login.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/user/Login.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="171" column="20" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+            <state relative-caret-position="105">
+              <caret line="161" column="28" lean-forward="true" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
               <folding>
                 <element signature="e#4038#4059#0" expanded="true" />
               </folding>
@@ -102,8 +102,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="14" />
+    <option name="x" value="294" />
+    <option name="y" value="13" />
     <option name="width" value="1596" />
     <option name="height" value="1001" />
   </component>
@@ -182,7 +182,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/CS/github/parts-lib-front/ant-design-pro-vue" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="E:\frontProjects\sendya-ant-design-pro-vue-master\ant-design-pro-vue\node_modules\eslint" />
@@ -212,15 +212,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579084539766</updated>
-      <workItem from="1579084541284" duration="3346000" />
+      <workItem from="1579084541284" duration="4676000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3346000" />
+    <option name="totallyTimeSpent" value="4676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="14" width="1596" height="1001" extended-state="0" />
+    <frame x="294" y="13" width="1596" height="1001" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20154044" />
@@ -292,8 +292,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/user/Login.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="171" column="20" selection-start-line="171" selection-start-column="20" selection-end-line="171" selection-end-column="20" />
+        <state relative-caret-position="105">
+          <caret line="161" column="28" lean-forward="true" selection-start-line="161" selection-start-column="28" selection-end-line="161" selection-end-column="28" />
           <folding>
             <element signature="e#4038#4059#0" expanded="true" />
           </folding>
